@@ -2,6 +2,7 @@
 // This is the brain of the LEDs, so this gets the variables from the ESP connected from the synth
 // Synth -> ESP1 -> "ESP2" <- PI
 // ESPLED will take the frequency, amplitude, and the shape of the wave and process it accordingly
+// guys there is a library for the effects actually
 
 #include <FastLED.h>
 
