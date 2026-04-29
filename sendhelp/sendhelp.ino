@@ -61,7 +61,7 @@
 // Total number of LEDs in the cube.
 // In this project, the cube has 9 LEDs per edge and 12 edges:
 // 9 * 12 = 108 LEDs.
-#define NUM_LEDS 108
+#define NUM_LEDS 200
 
 // Maximum number of colors/hues that can be used in the palette.
 // The code supports up to 5 hues at a time.
